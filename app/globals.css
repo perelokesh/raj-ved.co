@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Clemore';
+  src: url('/fonts/Clemore.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@import "tailwindcss";
+
+:root {
+  --background: #faf9f7;
+  --foreground: #47542b;
+  --brand-dark: #47542b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand-dark: var(--brand-dark);
+  --font-clemore: 'Clemore', serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: linear-gradient(135deg, #faf9f7 0%, #f5f3f0 100%);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: var(--foreground);
+  font-family: 'Clemore', serif;
+  overflow-x: hidden;
+  animation: bgFadeIn 2s ease-out forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bgFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 1.2s ease-out forwards;
+}
