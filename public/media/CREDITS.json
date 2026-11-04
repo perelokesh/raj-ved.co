@@ -1,0 +1,145 @@
+[
+  {
+    "file": "public/media/hero/warm-light-mandap.jpg",
+    "id": "hero-poster",
+    "kind": "synthetic-still",
+    "width": 2400,
+    "height": 1350,
+    "author": "Generated locally for this prototype (no photographs of people)",
+    "source": "scripts/generate-placeholders.mjs",
+    "licence": "Generated for this project; no third-party licence",
+    "fetched": "2026-10-18"
+  },
+  {
+    "file": "public/media/hero/sand-linen-drape.jpg",
+    "id": "intro",
+    "kind": "synthetic-still",
+    "width": 2400,
+    "height": 3000,
+    "author": "Generated locally for this prototype (no photographs of people)",
+    "source": "scripts/generate-placeholders.mjs",
+    "licence": "Generated for this project; no third-party licence",
+    "fetched": "2026-10-18"
+  },
+  {
+    "file": "public/media/hero/rajesh.jpg",
+    "id": "rajesh",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-10-18"
+  },
+  {
+    "file": "public/media/hero/marigold-garland-glow.jpg",
+    "id": "film",
+    "kind": "synthetic-still",
+    "width": 2400,
+    "height": 1350,
+    "author": "Generated locally for this prototype (no photographs of people)",
+    "source": "scripts/generate-placeholders.mjs",
+    "licence": "Generated for this project; no third-party licence",
+    "fetched": "2026-10-18"
+  },
+  {
+    "file": "public/media/hero/chaturved.jpg",
+    "id": "chaturved",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-10-18"
+  },
+  {
+    "file": "public/media/og/brand-og-card.jpg",
+    "id": "og",
+    "kind": "synthetic-still",
+    "width": 1200,
+    "height": 630,
+    "author": "Generated locally for this prototype (no photographs of people)",
+    "source": "scripts/generate-placeholders.mjs",
+    "licence": "Generated for this project; no third-party licence",
+    "fetched": "2026-10-18"
+  },
+  {
+    "file": "public/media/gallery/HALDI-032.jpg",
+    "id": "haldi-032",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  },
+  {
+    "file": "public/media/gallery/HALDI-085.jpg",
+    "id": "haldi-085",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  },
+  {
+    "file": "public/media/gallery/HALDI-107.jpg",
+    "id": "haldi-107",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  },
+  {
+    "file": "public/media/gallery/HALDI-142.jpg",
+    "id": "haldi-142",
+    "kind": "photograph",
+    "width": 2000,
+    "height": 1333,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  },
+  {
+    "file": "public/media/gallery/HALDI-258.jpg",
+    "id": "haldi-258",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  },
+  {
+    "file": "public/media/gallery/HALDI-288.jpg",
+    "id": "haldi-288",
+    "kind": "photograph",
+    "width": 1333,
+    "height": 2000,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  },
+  {
+    "file": "public/media/gallery/HALDI-317.jpg",
+    "id": "haldi-317",
+    "kind": "photograph",
+    "width": 2000,
+    "height": 1333,
+    "author": "Supplied by Raj&Ved.co [CONFIRM]",
+    "source": "client",
+    "licence": "Studio's own photograph [CONFIRM]",
+    "fetched": "2026-11-03"
+  }
+]
